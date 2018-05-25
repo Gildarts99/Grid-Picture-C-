@@ -13,4 +13,4 @@
       - 4:  print the current output to the console
       - B:  make the pen print in bold
       - b:  make the pen print unbolded
-- at the end of the program we draw the compleat picture to an output file called print.txt
+- at the end of the program we draw the compleated picture to an output file called print.txt
