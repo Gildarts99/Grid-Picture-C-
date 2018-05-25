@@ -10,6 +10,7 @@
             - S -> South
             - E -> East
             - W -> West
-      - 4:  print the output to the console
+      - 4:  print the current output to the console
       - B:  make the pen print in bold
       - b:  make the pen print unbolded
+- at the end of the program we draw the compleat picture to an output file called print.txt
